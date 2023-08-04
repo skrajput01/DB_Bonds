@@ -1,4 +1,3 @@
-# arrakis_v3
 # Dogs APIs
 
 ![dogs](dogs_api.jpg)
